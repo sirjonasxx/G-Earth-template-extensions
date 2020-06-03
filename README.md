@@ -1,0 +1,1 @@
+"# G-Earth-template-extensions" 
