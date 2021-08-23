@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="86.0" prefWidth="301.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="FreeHC">
+   <children>
+      <Button layoutX="56.0" layoutY="22.0" mnemonicParsing="false" onAction="#getFreeHcClick" prefHeight="25.0" prefWidth="189.0" text="Get Free HC!" />
+      <Label layoutX="56.0" layoutY="57.0" text="Can only be done once per account" />
+   </children>
+</AnchorPane>
